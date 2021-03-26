@@ -1,7 +1,7 @@
 autoformat amount component is a combination of both p-inputNumber and p-autoComplete (PRIMENG components).
 Limited features are enabled and merged.
 
-Based on current requirement,
+Based on my requirement,
 
 When user keyin a number,
 (at component level where autoformatamount is used)
