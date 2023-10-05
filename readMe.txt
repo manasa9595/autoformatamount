@@ -1,3 +1,5 @@
+![alt text](./assets/amount-suggestion.png)
+
 autoformat amount component is a combination of both p-inputNumber and p-autoComplete (PRIMENG components).
 Limited features are enabled and merged.
 
