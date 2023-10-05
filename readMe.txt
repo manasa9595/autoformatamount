@@ -1,4 +1,4 @@
-![alt text](./assets/amount-suggestion.png)
+![alt text](https://github.com/manasa9595/autoformatamount/blob/main/assets/amount-suggestion.png)
 
 autoformat amount component is a combination of both p-inputNumber and p-autoComplete (PRIMENG components).
 Limited features are enabled and merged.
